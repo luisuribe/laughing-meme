@@ -4,7 +4,7 @@
     "url": "https://hoyesfestivo.co",
     "icon": "https://favicons.githubusercontent.com/hoyesfestivo.co",
     "slug": "hoyesfestivo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 253,
     "timeMonth": 254,
     "timeYear": 259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   }
 ]
