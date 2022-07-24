@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/hoyesfestivo.co",
     "slug": "hoyesfestivo",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.72%",
-    "time": 253,
-    "timeDay": 163,
-    "timeWeek": 213,
-    "timeMonth": 228,
-    "timeYear": 253,
+    "uptimeYear": "99.73%",
+    "time": 252,
+    "timeDay": 108,
+    "timeWeek": 203,
+    "timeMonth": 226,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2022-04-19": 609
     }
