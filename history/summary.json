@@ -2,7 +2,7 @@
   {
     "name": "hoyesfestivo",
     "url": "https://hoyesfestivo.co",
-    "icon": "https://favicons.githubusercontent.com/hoyesfestivo.co",
+    "icon": "https://icons.duckduckgo.com/ip3/hoyesfestivo.co.ico",
     "slug": "hoyesfestivo",
     "status": "up",
     "uptime": "99.81%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 240,
-    "timeDay": 239,
-    "timeWeek": 183,
-    "timeMonth": 205,
+    "timeDay": 234,
+    "timeWeek": 188,
+    "timeMonth": 207,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2022-04-19": 609
