@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hoyesfestivo.co.ico",
     "slug": "hoyesfestivo",
     "status": "up",
-    "uptime": "72.20%",
+    "uptime": "72.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "10.16%",
-    "time": 260,
-    "timeDay": 360,
-    "timeWeek": 227,
-    "timeMonth": 261,
-    "timeYear": 250,
+    "uptimeYear": "10.44%",
+    "time": 256,
+    "timeDay": 295,
+    "timeWeek": 234,
+    "timeMonth": 267,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2026-05-27": 1428,
       "2026-05-26": 1440,
@@ -341,8 +341,7 @@
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
-      "2025-07-06": 1440,
-      "2025-07-05": 1440
+      "2025-07-06": 1440
     }
   }
 ]
